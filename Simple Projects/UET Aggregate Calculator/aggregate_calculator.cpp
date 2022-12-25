@@ -6,7 +6,7 @@ main(){
 
       cout<<"                  ---------------------------------              "<<endl;
       cout<<"                            AGGREGATE                            "<<endl;
-      cout<<"                           CALCULATOR                            "<<endl;
+      cout<<"                            CALCULATOR                           "<<endl;
       cout<<"                              2022                               "<<endl;
       cout<<"                  ---------------------------------              "<<endl;
  string name;
@@ -29,7 +29,7 @@ main(){
 
    aggregate=interPer+ecatPer;
 
-    cout<<"                         Aggregate Of "<<name<<" is "<<aggregate;
+    cout<<endl<<"                         Aggregate Of "<<name<<" is "<<aggregate<<endl;
 
 }  
 

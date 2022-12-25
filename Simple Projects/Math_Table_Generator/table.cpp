@@ -19,7 +19,7 @@ int main (){
 
     //Firstly,we have printed a integer which we have taken from user and then,c which stores "x" and then,"i" which is that number from which a is being multiplied and lastly,using operator "*" we print tha table
 
-    cout<<a<<c<<i<<"="<<setw(2)<<a*i<<endl;
+    cout<<a<<c<<i<<"="<<a*i<<endl;
         i++;
     }
     return 0;
